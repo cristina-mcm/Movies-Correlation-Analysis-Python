@@ -29,7 +29,7 @@ This project explores relationships between movie budgets, gross revenue, and ot
 ## Repository Contents
 
 - [`movies.csv`](movies.csv) — Movie dataset.
-- [`movies_correlation_analysis.ipynb`](movies_correlation_analysis.ipynb) — Jupyter Notebook containing the analysis.
+- [`movies_correlation_analysis.ipynb.ipynb`](movies__correlation_analysis.ipynb) — Jupyter Notebook containing the analysis.
 
 ## Acknowledgment
 
